@@ -18,7 +18,7 @@ html {
 h1 {
     font-weight: normal;
     margin: auto;
-    background: #fff;
+    background: #edc5be;
     line-height: 2.5em;
 }
 h1.page-header {
@@ -28,7 +28,7 @@ h1.page-header {
 }
 
 main.wrapper {
-    background-color: white;
+    background-color: #edc5be;
     overflow: auto;
 }
 
