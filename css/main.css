@@ -6,7 +6,7 @@
 html {
     background-color: #fb71711c;
     font-family: 'Quicksand', sans-serif;
-    font-size: 1.5em;
+    font-size: 1.3em;
     line-height: 1.5em;
     font-weight: bolder;
 }
@@ -55,7 +55,7 @@ a {
 
 a:hover {
     color: whitesmoke;
-    background-color: rgb(228, 26, 26);
+    background-color: rgb(164 66 35);
     text-decoration: none;
 }
 
